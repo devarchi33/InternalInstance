@@ -39,5 +39,6 @@
 	<p><a href="requestTest3.jsp">리퀘스트정보</a></p>
 	<p><a href="responseTest1.jsp">페이지 리다이렉트</a></p>
 	<p><a href="pageContextTest1.jsp">페이지 컨텍스트</a></p>
+	<p><a href="sessionTest1.jsp">세션 테스트</a></p>
 </body>
 </html>
