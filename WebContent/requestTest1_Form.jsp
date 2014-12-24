@@ -40,5 +40,8 @@
 	<p><a href="responseTest1.jsp">페이지 리다이렉트</a></p>
 	<p><a href="pageContextTest1.jsp">페이지 컨텍스트</a></p>
 	<p><a href="sessionTest1.jsp">세션 테스트</a></p>
+	<p><a href="applicationTest1.jsp">어플리케이션 테스트</a></p>
+	<p><a href="outTest.jsp">출력 테스트</a></p>
+	<p><a href="configTest1.jsp">컨피그 테스트</a></p>
 </body>
 </html>
