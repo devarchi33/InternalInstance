@@ -46,6 +46,7 @@
 	<p><a href="attributeTest1_Form.jsp">속성 테스트(Application, session)</a></p>
 	<p><a href="attributeTest4.jsp">속성 테스트(page, request)1</a></p>
 	<p><a href="attributeTest5.jsp">속성 테스트(page, request)2</a></p>
-	<p><a href="forwardTest.jsp">jsp:forward 태그 테스트</a></p>
+	<p><a href="forwardTest.jsp">jsp:forward 액션 태그 테스트</a></p>
+	<p><a href="includeTest.jsp">jsp:include 액션 태그 테스트 </a></p>
 </body>
 </html>
