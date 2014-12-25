@@ -43,6 +43,8 @@
 	<p><a href="applicationTest1.jsp">어플리케이션 테스트</a></p>
 	<p><a href="outTest.jsp">출력 테스트</a></p>
 	<p><a href="configTest1.jsp">컨피그 테스트</a></p>
-	<p><a href="attributeTest1_Form.jsp">속성 테스트</a></p>
+	<p><a href="attributeTest1_Form.jsp">속성 테스트(Application, session)</a></p>
+	<p><a href="attributeTest4.jsp">속성 테스트(page, request)1</a></p>
+	<p><a href="attributeTest5.jsp">속성 테스트(page, request)2</a></p>
 </body>
 </html>
