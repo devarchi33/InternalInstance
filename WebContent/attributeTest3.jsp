@@ -28,9 +28,9 @@
 			<th colspan="2">Session 영역에 저장된 내용들</th>
 		</tr>
 		<%
-			Enumeration e = session.getAttributeNames();
+			Enumeration<String> e = session.getAttributeNames();
 			while(e.hasMoreElements()){
-				String attributeName = (String)e.nextElement();
+				String attributeName = e.nextElement();
 				String attributeValue = (String)session.getAttribute(attributeName);
 		%>
 		<tr>
